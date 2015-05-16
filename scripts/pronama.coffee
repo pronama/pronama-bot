@@ -106,6 +106,11 @@ module.exports = (robot) ->
     ]
     res.reply res.random(patterns)
 
+  new cron '15 5 9,12,20,22,23 * * *', () =>
+    index = Math.floor(Math.random() * word_list.length)
+    robot.send {}, "#{word_list[index]} #pronama"
+  , null, true, 'Asia/Tokyo'
+
   #robot.respond /(ぬるぽ|NullPointerException)/i, (res) ->
 
   # robot.hear /badger/i, (res) ->
