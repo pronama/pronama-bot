@@ -5,11 +5,13 @@
   "author": "treby <treby@atelier-nodoka.net>",
   "description": "Pronama bot",
   "dependencies": {
+    "cron": "^1.0.9",
     "hubot": "^2.12.0",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "^2.5.16",
-    "hubot-twitter": "^2.1.1"
+    "hubot-twitter": "^2.1.1",
+    "time": "^0.11.2"
   },
   "engines": {
     "node": "0.10.x"
