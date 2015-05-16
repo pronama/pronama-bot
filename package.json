@@ -10,7 +10,7 @@
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-redis-brain": "0.0.2",
     "hubot-scripts": "^2.5.16",
-    "hubot-twitter": "^2.1.1",
+    "hubot-twitter": "git://github.com/treby/hubot-twitter.git",
     "time": "^0.11.2"
   },
   "engines": {

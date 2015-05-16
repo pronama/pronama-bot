@@ -94,17 +94,17 @@ word_list = [
 
 module.exports = (robot) ->
   robot.respond /こんにちは/i, (res) ->
-    res.send 'こんにちは、今日もどんどんコード書いていこう！'
+    res.reply 'こんにちは、今日もどんどんコード書いていこう！'
 
   robot.respond /(ぬるぽ|NullPointerException)/i, (res) ->
-    res.send 'ガッ'
+    res.reply 'ガッ'
   robot.respond /(ジャンケン|じゃんけん)/i, (res) ->
     patterns = [
       'グー✊'
       'チョキ✌️'
       'パー✋'
     ]
-    res.send res.random(patterns)
+    res.reply res.random(patterns)
 
   #robot.respond /(ぬるぽ|NullPointerException)/i, (res) ->
 
