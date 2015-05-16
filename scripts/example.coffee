@@ -9,6 +9,27 @@
 #   These are from the scripting documentation: https://github.com/github/hubot/blob/master/docs/scripting.md
 
 module.exports = (robot) ->
+  robot.respond /こんにちは/i, (res) ->
+    res.send 'こんにちは、今日もどんどんコード書いていこう！'
+
+
+  robot.respond /(ぬるぽ|NullPointerException)/i, (res) ->
+    res.send 'ガッ'
+  robot.respond /(ジャンケン|じゃんけん)/i, (res) ->
+    patterns = [
+      'グー✊'
+      'チョキ✌️'
+      'パー✋'
+    ]
+    res.send res.random(patterns)
+
+
+
+
+
+
+
+  #robot.respond /(ぬるぽ|NullPointerException)/i, (res) ->
 
   # robot.hear /badger/i, (res) ->
   #   res.send "Badgers? BADGERS? WE DON'T NEED NO STINKIN BADGERS"
