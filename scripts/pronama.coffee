@@ -90,6 +90,13 @@ word_list = [
   'おいしかったしまあいいよね http://pronama.azurewebsites.net/2015/02/02/web-comic-spaco-26/'
   'その年の恵方がわかる毎年１回しか使えないアプリを作ったよ！ http://pronama.azurewebsites.net/2015/02/02/web-comic-spaco-26/'
   '見て見て！前に作ったホラーゲーム「恐怖の林」がすごい人気みたい！ http://pronama.azurewebsites.net/2015/02/15/web-comic-spaco-27/'
+  '３月３日は耳の日だね http://pronama.azurewebsites.net/2015/03/02/web-comic-spaco-28/'
+  'にゃうりんがる首輪付きだよ！ http://pronama.azurewebsites.net/2015/03/02/web-comic-spaco-28/'
+  'にゃうりんがる首輪付きや！ http://pronama.azurewebsites.net/2015/03/13/web-comic-spaco-28-ks/'
+  '毛虫を退治するゲームを作りたいけど絵がないんだぁ http://pronama.azurewebsites.net/2015/04/16/web-comic-spaco-31/'
+  'この宇宙生物みたいな感じがボスキャラにふさわしいよね http://pronama.azurewebsites.net/2015/04/16/web-comic-spaco-31/'
+  '鯉のぼりになれるアプリを開発したよ〜 http://pronama.azurewebsites.net/2015/05/05/web-comic-spaco-32/'
+  'というわけで五月病の予防アプリ作ったよ http://pronama.azurewebsites.net/2015/05/05/web-comic-spaco-32/'
 ]
 
 module.exports = (robot) ->
