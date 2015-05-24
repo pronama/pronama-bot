@@ -1,3 +1,3 @@
 @echo off
 
-npm install && node_modules\.bin\hubot.cmd --name "pronama-bot" %* 
+npm install && node_modules\.bin\hubot.cmd --name "pronama_bot" %* 
