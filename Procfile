@@ -1,1 +1,1 @@
-web: bin/hubot -a twitter -n $HUBOT_TWITTER_SCREEN_NAME
+web: bin/hubot -a twitter-userstream -n $HUBOT_TWITTER_SCREEN_NAME
