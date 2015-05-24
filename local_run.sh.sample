@@ -1,0 +1,10 @@
+#!/bin/sh
+# 手元で検証するためのスクリプト
+
+export HUBOT_TWITTER_KEY="Your twitter key here"
+export HUBOT_TWITTER_SECRET="Your twitter secret here"
+export HUBOT_TWITTER_TOKEN="Your twitter token here"
+export HUBOT_TWITTER_TOKEN_SECRET="Your twitter token secret here"
+export HUBOT_TWITTER_SCREEN_NAME="bot's screen name here (@bot_account)"
+
+bin/hubot -a twitter-userstream -n $HUBOT_TWITTER_SCREEN_NAME
