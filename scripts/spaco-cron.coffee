@@ -94,6 +94,8 @@ word_list = [
   'この宇宙生物みたいな感じがボスキャラにふさわしいよね http://pronama.azurewebsites.net/2015/04/16/web-comic-spaco-31/'
   '鯉のぼりになれるアプリを開発したよ〜 http://pronama.azurewebsites.net/2015/05/05/web-comic-spaco-32/'
   'というわけで五月病の予防アプリ作ったよ http://pronama.azurewebsites.net/2015/05/05/web-comic-spaco-32/'
+  'たけのこがおいしい季節だね http://pronama.azurewebsites.net/2015/05/26/web-comic-spaco-33/'
+  'ね！ http://pronama.azurewebsites.net/2015/05/26/web-comic-spaco-33/'
 ]
 
 module.exports = (robot) ->
