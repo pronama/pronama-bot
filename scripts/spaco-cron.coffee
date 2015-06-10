@@ -96,6 +96,8 @@ word_list = [
   'というわけで五月病の予防アプリ作ったよ http://pronama.azurewebsites.net/2015/05/05/web-comic-spaco-32/'
   'たけのこがおいしい季節だね http://pronama.azurewebsites.net/2015/05/26/web-comic-spaco-33/'
   'ね！ http://pronama.azurewebsites.net/2015/05/26/web-comic-spaco-33/'
+  '今日からみんな夏服だね http://pronama.azurewebsites.net/2015/06/08/web-comic-spaco-34/'
+  '梅雨入りしてから全然外に出てないねー http://pronama.azurewebsites.net/2015/06/08/web-comic-spaco-34/'
 ]
 
 module.exports = (robot) ->
