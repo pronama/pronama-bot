@@ -98,6 +98,8 @@ word_list = [
   'ね！ http://pronama.azurewebsites.net/2015/05/26/web-comic-spaco-33/'
   '今日からみんな夏服だね http://pronama.azurewebsites.net/2015/06/08/web-comic-spaco-34/'
   '梅雨入りしてから全然外に出てないねー http://pronama.azurewebsites.net/2015/06/08/web-comic-spaco-34/'
+  '6月といえば結婚だね http://pronama.azurewebsites.net/2015/06/21/web-comic-spaco-35/'
+  'ふぃーちゃんもお姫様抱っこした感じだとこの前より・・・ http://pronama.azurewebsites.net/2015/06/21/web-comic-spaco-35/'
 ]
 
 module.exports = (robot) ->
