@@ -9,14 +9,14 @@
 ## クイックスタート
 
 ```
-$ git clone git@github.com:treby/pronama-bot.git
+$ git clone git@github.com:pronama/pronama-bot.git
 $ cd pronama-bot
 $ ./bin/hubot
 ```
 
 ## 協力者募集中！
 適当なノリなので、どんどんPull Requestをください。
-[気ままにIssueを立ててる](https://github.com/treby/pronama-bot/issues)ので、気が向いたら拾ってみてください(もちろん、何かIssueを立てていただいて構いません)
+[気ままにIssueを立ててる](https://github.com/pronama/pronama-bot/issues)ので、気が向いたら拾ってみてください(もちろん、何かIssueを立てていただいて構いません)
 
 Issueを拾っていただいた場合、[GitHubの仕様上](https://help.github.com/articles/closing-issues-via-commit-messages/#keywords-for-closing-issues)`close #1(Issue番号)`のようなコメントを含めるとマージと一緒にIssueを閉じることができます。お試しください。
 

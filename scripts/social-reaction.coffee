@@ -8,5 +8,5 @@
 
 module.exports = (robot) ->
   robot.on 'followed', (event) ->
-    robot.send {}, "@#{event.user.name} フォローありがとう！どうぞよろしくね♪Pull Request待ってるよ！ https://github.com/treby/pronama-bot"
+    robot.send {}, "@#{event.user.name} フォローありがとう！どうぞよろしくね♪Pull Request待ってるよ！ https://github.com/pronama/pronama-bot"
     robot.adapter.join event.user
